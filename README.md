@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![logo]()
+![logo](https://github.com/md-abutalha/md-abutalha/blob/main/abu_talha.png)
 <h1 align="center">Hi 👋, I'm Abu Talha</h1>
 <h3 align="center">A passionate android developer from Bangladesh</h3>
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif"
