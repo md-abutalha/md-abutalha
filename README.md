@@ -15,33 +15,36 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![logo](https://github.com/md-abutalha/md-abutalha/blob/main/abu_talha0x.png)
-<h1 align="center">As-salamu Alikum 👋, I'm Abu Talha</h1>
+<h1 align="center">As-salamu Alikum 👋, I'm Talha</h1>
 <h3 align="center">A passionate Software Tester, currently enhancing skills in testing techniques and working on projects</h3>
-<img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif"
+<img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=md-abutalha&label=Profile%20views&color=0e75b6&style=flat" alt="md-abutalha" /> </p>
 
--🔭 I specialize in Manual, Automation, Performance, API, and Security Testing.
+- 🔭 I specialize in **Manual, Automation, Performance, API, and Security Testing.**
 
-- 🌱 I’m currently learning ** and advancing my expertise in software testing techniques.**
+- 🌱 I’m currently learning **and advancing my expertise in software testing techniques.**
 
 - 💬 Ask me about **Software Testing**
 
 - 📫 How to reach me **abutalha.nub@gmail.com**
   
-- 👯 I’m looking to collaborate on SQA & cyber security
+- 👯 I’m looking to collaborate on **SQA & Cyber Security**
 
 - ⚡ Fun fact **I'm Funny 🤣**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/abu_talha0x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abu_talha0x" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/abu-talha1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abu-talha1" height="30" width="40" /></a>
+    <a href="https://twitter.com/abu_talha0x" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abu_talha0x" height="30" width="40" />
+    </a>
+    <a href="https://linkedin.com/in/abu-talha1" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abu-talha1" height="30" width="40" />
+    </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h2 align="left">Skills</h2>
 
-***************************************************************
 <p align="left">
     <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer">
         <img src="https://camo.githubusercontent.com/023934229dc0f60c21413c134cba62f6fff4fbcacf270c326d0c6fedf0738de0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f53656c656e69756d2d3433423032413f7374796c653d666f722d7468652d6261646765266c6f676f3d73656c656e69756d266c6f676f436f6c6f723d7768697465" alt="Selenium" style="max-width: 100%;">
@@ -49,7 +52,7 @@ Here are some ideas to get you started:
     <a href="https://appium.io/" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/Appium-41BDF5?style=for-the-badge&logo=appium&logoColor=white" alt="Appium" style="max-width: 100%;">
     </a>
-   <a href="https://testng.org/doc/" target="_blank" rel="noreferrer">
+    <a href="https://testng.org/doc/" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/TestNG-FF9300?style=for-the-badge&logo=testng&logoColor=white" alt="TestNG" style="max-width: 100%;">
     </a>
     <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
@@ -79,10 +82,7 @@ Here are some ideas to get you started:
     <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio" style="max-width: 100%;">
     </a>
-   
 </p>
-
-*************************************************
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=md-abutalha&show_icons=true&locale=en&layout=compact" alt="md-abutalha" /></p>
 
