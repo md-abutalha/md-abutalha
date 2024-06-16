@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about **Software Testing**
 
 - 📫 How to reach me **abutalha.nub@gmail.com**
-- 
+  
 - 👯 I’m looking to collaborate on SQA & cyber security
 
 - ⚡ Fun fact **I'm Funny 🤣**
@@ -43,9 +43,7 @@ Here are some ideas to get you started:
 
 ***************************************************************
 <p align="left">
-    <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
-    </a>
+  
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
     </a>
@@ -96,6 +94,9 @@ Here are some ideas to get you started:
     </a>
     <a href="https://cucumber.io/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/cucumberio/cucumberio-icon.svg" alt="cucumber" width="40" height="40"/>
+    </a>
+      <a href="https://developer.android.com" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
     </a>
 </p>
 
