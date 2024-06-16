@@ -14,19 +14,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![logo](https://github.com/md-abutalha/md-abutalha/blob/main/abu_talha.png)
-<h1 align="center">Hi 👋, I'm Abu Talha</h1>
-<h3 align="center">A passionate android developer from Bangladesh</h3>
+![logo](https://github.com/md-abutalha/md-abutalha/blob/main/abu_talha0x.png)
+<h1 align="center">As-salamu Alikum 👋, I'm Abu Talha</h1>
+<h3 align="center">A passionate Software Tester, currently enhancing skills in testing techniques and working on projects</h3>
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=md-abutalha&label=Profile%20views&color=0e75b6&style=flat" alt="md-abutalha" /> </p>
 
-- 🌱 I’m currently learning **Android development, Cyber Security**
+-🔭 I specialize in Manual, Automation, Performance, API, and Security Testing.
 
-- 💬 Ask me about **android development, penetration testing, laravel**
+- 🌱 I’m currently learning ** and advancing my expertise in software testing techniques.**
+
+- 💬 Ask me about **Software Testing**
 
 - 📫 How to reach me **abutalha.nub@gmail.com**
-- 👯 I’m looking to collaborate on cyber security
+- 
+- 👯 I’m looking to collaborate on SQA & cyber security
 
 - ⚡ Fun fact **I'm Funny 🤣**
 
