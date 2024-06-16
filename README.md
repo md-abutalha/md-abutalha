@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ![logo](https://github.com/md-abutalha/md-abutalha/blob/main/abu_talha0x.png)
 <h1 align="center">As-salamu Alikum 👋, I'm Talha</h1>
-<h3 align="center">A passionate Software Tester, currently enhancing skills in testing techniques and working on projects</h3>
+<h3 align="center">I'm a passionate Software Tester, currently enhancing skills in testing techniques and working on projects</h3>
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=md-abutalha&label=Profile%20views&color=0e75b6&style=flat" alt="md-abutalha" /> </p>
