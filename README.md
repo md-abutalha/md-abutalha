@@ -44,13 +44,10 @@ Here are some ideas to get you started:
 ***************************************************************
 <p align="left">
     <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="selenium" width="40" height="40"/>
+        <img src="https://camo.githubusercontent.com/023934229dc0f60c21413c134cba62f6fff4fbcacf270c326d0c6fedf0738de0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f53656c656e69756d2d3433423032413f7374796c653d666f722d7468652d6261646765266c6f676f3d73656c656e69756d266c6f676f436f6c6f723d7768697465" alt="Selenium" style="max-width: 100%;">
     </a>
     <a href="https://appium.io/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/appiumio/appiumio-icon.svg" alt="appium" width="40" height="40"/>
-    </a>
- <a href="https://testng.org/doc/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/testng/testng-icon.svg" alt="testng" width="40" height="40"/>
     </a>
     <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
@@ -79,8 +76,11 @@ Here are some ideas to get you started:
     <a href="https://developer.android.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
     </a>
-   
+    <a href="https://testng.org/doc/" target="_blank" rel="noreferrer">
+        <img src="https://img.shields.io/badge/TestNG-FF9300?style=for-the-badge&logo=testng&logoColor=white" alt="TestNG" style="max-width: 100%;">
+    </a>
 </p>
+
 
 
 *************************************************
