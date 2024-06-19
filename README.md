@@ -89,8 +89,13 @@ Here are some ideas to get you started:
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=md-abutalha&" alt="md-abutalha" /></p>
 
 <h2 class="heading-element" dir="auto">🎓 Education</h2>
-[B.Sc.] in [CSE]  
-[Northern University Bangladesh], [April 2024]
+<ul dir="auto">
+<li><strong>[B.Sc.]</strong> in <strong>[CSE]</strong>
+<ul dir="auto">
+<li>[Northern University Bangladesh], [April 2024]</li>
+</ul>
+</li>
+</ul>
 
 <h2 align="left">📫 Let's Connect!</h2>
 <p align="left">
