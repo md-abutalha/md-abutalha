@@ -35,16 +35,6 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact **I'm Funny 🤣**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-    <a href="https://twitter.com/abu_talha0x" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abu_talha0x" height="30" width="40" />
-    </a>
-    <a href="https://linkedin.com/in/abu-talha1" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abu-talha1" height="30" width="40" />
-    </a>
-</p>
-
 <h2 align="left">Skills</h2>
 
 <p align="left">
@@ -62,6 +52,12 @@ Here are some ideas to get you started:
     </a>
     <a href="https://jmeter.apache.org/" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apache-jmeter&logoColor=white" alt="JMeter" style="max-width: 100%;">
+    </a>
+  <a href="https://portswigger.net/burp" target="_blank" rel="noreferrer">
+        <img src="https://img.shields.io/badge/BurpSuite-FF7043?style=for-the-badge&logo=burp-suite&logoColor=white" alt="BurpSuite" style="max-width: 100%;">
+    </a>
+    <a href="https://nmap.org/" target="_blank" rel="noreferrer">
+        <img src="https://img.shields.io/badge/NMap-4682B4?style=for-the-badge&logo=nmap&logoColor=white" alt="NMap" style="max-width: 100%;">
     </a>
     <a href="https://www.cypress.io/" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress" style="max-width: 100%;">
@@ -91,3 +87,18 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=md-abutalha&show_icons=true&locale=en" alt="md-abutalha" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=md-abutalha&" alt="md-abutalha" /></p>
+
+### 🎓 Education
+[B.Sc.] in [CSE]  
+[Northern University Bangladesh], [April 2024]
+
+<h3 align="left">📫 Let's Connect!</h3>
+<p align="left">
+    <a href="https://twitter.com/abu_talha0x" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abu_talha0x" height="30" width="40" />
+    </a>
+    <a href="https://linkedin.com/in/abu-talha1" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abu-talha1" height="30" width="40" />
+    </a>
+</p>
+
