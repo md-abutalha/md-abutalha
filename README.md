@@ -88,11 +88,11 @@ Here are some ideas to get you started:
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=md-abutalha&" alt="md-abutalha" /></p>
 
-### 🎓 Education
+<h2 class="heading-element" dir="auto">🎓 Education</h2>
 [B.Sc.] in [CSE]  
 [Northern University Bangladesh], [April 2024]
 
-<h3 align="left">📫 Let's Connect!</h3>
+<h2 align="left">📫 Let's Connect!</h2>
 <p align="left">
     <a href="https://twitter.com/abu_talha0x" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abu_talha0x" height="30" width="40" />
@@ -101,4 +101,5 @@ Here are some ideas to get you started:
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abu-talha1" height="30" width="40" />
     </a>
 </p>
+
 
