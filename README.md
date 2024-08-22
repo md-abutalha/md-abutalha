@@ -88,6 +88,10 @@ Here are some ideas to get you started:
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=md-abutalha&" alt="md-abutalha" /></p>
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=md-abutalha&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+
 <h2 class="heading-element" dir="auto">🎓 Education</h2>
 <ul dir="auto">
 <li><strong>[B.Sc.]</strong> in <strong>[CSE]</strong>
