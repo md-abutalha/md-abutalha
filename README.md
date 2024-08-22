@@ -80,6 +80,9 @@ Here are some ideas to get you started:
     <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio" style="max-width: 100%;">
     </a>
+  <a href="https://www.php.net/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" style="max-width: 100%;">
+</a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=md-abutalha&show_icons=true&locale=en&layout=compact" alt="md-abutalha" /></p>
