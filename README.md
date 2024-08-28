@@ -38,9 +38,10 @@ Here are some ideas to get you started:
 <h2 align="left">Skills</h2>
 
 <p align="left">
-    <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer">
-        <img src="https://camo.githubusercontent.com/023934229dc0f60c21413c134cba62f6fff4fbcacf270c326d0c6fedf0738de0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f53656c656e69756d2d3433423032413f7374796c653d666f722d7468652d6261646765266c6f676f3d73656c656e69756d266c6f676f436f6c6f723d7768697465" alt="Selenium" style="max-width: 100%;">
-    </a>
+  <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" style="max-width: 100%;">
+</a>
+
     <a href="https://appium.io/" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/Appium-41BDF5?style=for-the-badge&logo=appium&logoColor=white" alt="Appium" style="max-width: 100%;">
     </a>
