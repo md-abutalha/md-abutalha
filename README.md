@@ -53,9 +53,10 @@ Here are some ideas to get you started:
   <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" style="max-width: 100%;">
   </a>
-  <a href="https://www.acquentix.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Accuentix-FF6C37?style=for-the-badge&logo=Accuentix&logoColor=white" alt="Accuentix" style="max-width: 100%;">
+<a href="https://www.acquentix.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Accuentix-00A3E0?style=for-the-badge&logoColor=white" alt="Accuentix" style="max-width: 100%;">
 </a>
+
   <a href="https://jmeter.apache.org/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apache-jmeter&logoColor=white" alt="JMeter" style="max-width: 100%;">
   </a>
