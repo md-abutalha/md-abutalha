@@ -49,7 +49,9 @@ Here are some ideas to get you started:
   <a href="https://testng.org/doc/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/TestNG-FF9300?style=for-the-badge&logo=testng&logoColor=white" alt="TestNG" style="max-width: 100%;">
   </a>
-  
+  <a href="https://portswigger.net/burp" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Burp%20Suite-FF6C37?style=for-the-badge&logo=burp-suite&logoColor=white" alt="Burp Suite" style="max-width: 100%;">
+  </a>
   <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" style="max-width: 100%;">
   </a>
