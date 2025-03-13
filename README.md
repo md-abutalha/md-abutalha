@@ -68,8 +68,8 @@ Here are some ideas to get you started:
     <a href="https://www.cypress.io/" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress" style="max-width: 100%;">
     </a>
-    <a href="https://cucumber.io/" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white" alt="Cucumber" style="max-width: 100%;">
+    <a href="https://playwright.dev/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" style="max-width: 100%;">
     </a>
     <a href="https://www.java.com" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" style="max-width: 100%;">
