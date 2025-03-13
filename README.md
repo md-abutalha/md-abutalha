@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ### About Me
 
-- 🔭 I specialize in **Manual, Automation, Performance, API, and Security Testing.**
+- 🔭 I specialize in **Manual, Automation, Performance, API, Penetration, and Security Testing.**
 
 - 🌱 I’m currently learning **and advancing my expertise in software testing techniques.**
 
