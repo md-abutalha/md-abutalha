@@ -25,9 +25,7 @@ Skills: Java, JavaScript, HTML, CSS, XML, MySQL, JSON, RESTful API, SQL | Seleni
 
 
 
-## About Me
-
----  
+## About Me 
 
 - 🔭 I specialize in **Manual, Automation, Performance, API, Penetration, and Security Testing.**
 
@@ -37,7 +35,6 @@ Skills: Java, JavaScript, HTML, CSS, XML, MySQL, JSON, RESTful API, SQL | Seleni
   
 - 👯 Open to job, freelance, contractual work & project opportunities in SQA, Automation Testing & Ethical Hacking.  
 
----
 
 <h2 align="left">Skills</h2>
 
