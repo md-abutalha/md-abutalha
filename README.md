@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![logo](https://github.com/md-abutalha/md-abutalha/blob/main/abu_talha0x.png)
-<h1 align="center">As-salamu Alikum 👋, I'm Talha</h1>
-<h3 align="center">I'm passionate about Software Testing, Coding & Security, currently enhancing my skills in testing techniques and working on real-world projects</h3>
+<h1 align="center">As-salamu Alikum 👋, I'M ABU TALHA</h1>
+<h3 align="center"><strong>QA Engineer | Automation Tester | Security Expert | Bug Hunter</strong></h3>
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=md-abutalha&label=Profile%20views&color=0e75b6&style=flat" alt="md-abutalha" /> </p>
@@ -107,7 +107,7 @@ Here are some ideas to get you started:
 
 ## 💼 Experience
 
-🧰 **Hishabee Technologies Limited (On-Site)**  
+🧰 Hishabee Technologies Limited (On-Site)  
 ⏱️ December 2024 - Present  
 📌 QA Engineer  
 • SaaS | Fintech | Dealership Business Solution  
