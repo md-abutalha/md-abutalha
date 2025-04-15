@@ -11,7 +11,7 @@
 
 ---   
 
-## About Me   
+## 🔭 About Me   
 
 - 🔭 I specialize in **Manual, Automation, Performance, API, Penetration, and Security Testing.**  
 - 🌱 I’m currently enhancing my expertise in software testing techniques through industry-level projects.  
@@ -101,9 +101,7 @@
 ### 📡 Connect With Me:  
 
 <p align="left">  
- <a href="mailto:abutalhabd88@gmail.com" target="_blank">  
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Gmail_icon_%282016-2022%29.png" alt="email" height="30" width="40" />  
-</a>  
+abutalhabd88@gmail.com  
     &nbsp;&nbsp;  
     <a href="https://linkedin.com/in/abu-talha1" target="blank">  
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />  
