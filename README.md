@@ -20,7 +20,7 @@
 
 ---  
 
-<h2 align="left">Skills</h2>  
+<h2 align="left"><img src="https://img.icons8.com/ios-filled/50/000000/laptop.png" alt="laptop icon" width="30" height="30"/> Languages & Tools</h2> 
 
 <p align="left">  
   <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer">  
