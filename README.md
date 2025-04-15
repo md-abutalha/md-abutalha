@@ -15,17 +15,21 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![logo](https://github.com/md-abutalha/md-abutalha/blob/main/abu_talha0x.png)  
+
 <h1 align="center" style="color: #FFD700;">As-salamu Alikum 👋, I'M ABU TALHA</h1>  
 <h3 align="center">QA Engineer | Automation Tester | Security Expert | Bug Hunter</h3>  
+
 ---  
+
 Skills: Java, JavaScript, HTML, CSS, XML, MySQL, JSON, RESTful API, SQL | Selenium, TestNG, Cucumber, Playwright, Apache JMeter, Postman, Git, Jira, Appium, Android Studio, IntelliJ IDEA, VS Code, Burp Suite, Acunetix  
+
 ---  
 
 ### About Me
 
 - 🔭 I specialize in **Manual, Automation, Performance, API, Penetration, and Security Testing.**
 
-- 🌱 I’m currently enhancing my expertise in software testing techniques through industry-level projects.**
+- 🌱 I’m currently enhancing my expertise in software testing techniques through industry-level projects.
 
 - 💬 Ask me about ** SQA & Automation Testing**
   
@@ -121,8 +125,8 @@ Skills: Java, JavaScript, HTML, CSS, XML, MySQL, JSON, RESTful API, SQL | Seleni
 
 <p align="left">  
     <a href="mailto:abutalhabd88@gmail.com" target="_blank">  
-        <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Gmail_Logo.svg" alt="email" height="30" width="40" />  
-    </a>  
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Gmail_Logo.svg" alt="email" height="30" width="40" />  
+  </a>  
     &nbsp;&nbsp;  
     <a href="https://linkedin.com/in/abu-talha1" target="blank">  
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />  
