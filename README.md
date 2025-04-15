@@ -104,37 +104,42 @@ Here are some ideas to get you started:
 </ul>
 </li>
 </ul>
- 
-## 💼 Experience
 
-### 🧰 Hishabee Technologies Limited (On-Site)  
+## 💼 Experience
+---
+🧰 Hishabee Technologies Limited (On-Site)  
 ⏱️ December 2024 - Present  
 📌 QA Engineer  
 • SaaS | Fintech | Dealership Business Solution 
 
 ---
 
-### 🧰 Manhattan Tech (Remote)  
+🧰 Manhattan Tech (Remote)  
 ⏱️ January 2024 – June 2024  
 📌 Software Quality Assurance Intern 
 
 ---
 
+<h3>📡 Connect With Me:</h3>
 
-## 📫 Let's Connect!
+<hr style="border: 1.8px solid #444;">
 
 <p align="left">
-    <a href="https://twitter.com/abu_talha0x" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abu_talha0x" height="30" width="40" />
+    <a href="mailto:abutalhabd88@gmail.com" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="email" height="30" width="40" />
     </a>
+    &nbsp;&nbsp;
     <a href="https://linkedin.com/in/abu-talha1" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abu-talha1" height="30" width="40" />
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
     </a>
-    <a href="https://github.com/md-abutalha" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="md-abutalha" height="30" width="40" />
-    </a>
+    &nbsp;&nbsp;
     <a href="https://facebook.com/mdabutalha03333" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" />
     </a>
+    &nbsp;&nbsp;
+    <a href="https://github.com/md-abutalha" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github" height="30" width="40" />
+    </a>
 </p>
+---
 
