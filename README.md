@@ -107,19 +107,16 @@ Here are some ideas to get you started:
  
 ## 💼 Experience
 
----
-
-🔧 ###  🧰 Hishabee Technologies Limited (On-Site)  
-⏱️ 2024, December – Present  
-📍 ## QA Engineer  
-• SaaS | Fintech | Dealership Business Solution
+### 🧰 Hishabee Technologies Limited (On-Site)  
+⏱️ December 2024 - Present  
+📌 QA Engineer  
+• SaaS | Fintech | Dealership Business Solution 
 
 ---
 
-🔧 ### 🧰 Manhattan Tech (Remote)  
-⏱️ 2024, January – 2024, June  
-📍 ## Software Quality Assurance Intern  
-• Manual Testing | API Testing | Test Case Writing
+### 🧰 Manhattan Tech (Remote)  
+⏱️ January 2024 – June 2024  
+📌 Software Quality Assurance Intern 
 
 ---
 
