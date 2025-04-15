@@ -18,8 +18,6 @@ Here are some ideas to get you started:
 <h1 align="center" style="color: #FFD700;">As-salamu Alikum 👋, I'M ABU TALHA</h1>  
 <h3 align="center">QA Engineer | Automation Tester | Security Expert | Bug Hunter</h3>  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=md-abutalha&label=Profile%20views&color=0e75b6&style=flat" alt="md-abutalha" /> </p>  
-
 Skills: Java, JavaScript, HTML, CSS, XML, MySQL, JSON, RESTful API, SQL | Selenium, TestNG, Cucumber, Playwright, Apache JMeter, Postman, Git, Jira, Appium, Android Studio, IntelliJ IDEA, VS Code, Burp Suite, Acunetix  
 ---  
 
