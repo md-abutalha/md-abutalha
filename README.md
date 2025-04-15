@@ -106,23 +106,21 @@ Here are some ideas to get you started:
 </ul>
 
 ## 💼 Experience
----
-🧰 Hishabee Technologies Limited (On-Site)  
+
+🧰 **Hishabee Technologies Limited (On-Site)**  
 ⏱️ December 2024 - Present  
 📌 QA Engineer  
-• SaaS | Fintech | Dealership Business Solution 
+• SaaS | Fintech | Dealership Business Solution  
 
 ---
 
-🧰 Manhattan Tech (Remote)  
+🧰 **Manhattan Tech (Remote)**  
 ⏱️ January 2024 – June 2024  
-📌 Software Quality Assurance Intern 
+📌 Software Quality Assurance Intern  
 
 ---
 
-<h3>📡 Connect With Me:</h3>
-
-<hr style="border: 1.8px solid #444;">
+### 📡 Connect With Me:
 
 <p align="left">
     <a href="mailto:abutalhabd88@gmail.com" target="blank">
@@ -141,5 +139,5 @@ Here are some ideas to get you started:
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github" height="30" width="40" />
     </a>
 </p>
----
+
 
