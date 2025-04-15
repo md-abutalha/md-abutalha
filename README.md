@@ -109,16 +109,16 @@ Here are some ideas to get you started:
 
 ---
 
-🔧 ** 🧰 Hishabee Technologies Limited** (On-Site)  
+🔧 ###  🧰 Hishabee Technologies Limited (On-Site)  
 ⏱️ 2024, December – Present  
-📍 **QA Engineer**  
+📍 ## QA Engineer  
 • SaaS | Fintech | Dealership Business Solution
 
 ---
 
-🔧 ** 🧰 Manhattan Tech** (Remote)  
+🔧 ### 🧰 Manhattan Tech (Remote)  
 ⏱️ 2024, January – 2024, June  
-📍 **Software Quality Assurance Intern**  
+📍 ## Software Quality Assurance Intern  
 • Manual Testing | API Testing | Test Case Writing
 
 ---
