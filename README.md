@@ -35,6 +35,7 @@ Skills: Java, JavaScript, HTML, CSS, XML, MySQL, JSON, RESTful API, SQL | Seleni
   
 - 👯 Open to job, freelance, contractual work & project opportunities in SQA, Automation Testing & Ethical Hacking.  
 
+---
 
 <h2 align="left">Skills</h2>
 
@@ -96,7 +97,7 @@ Skills: Java, JavaScript, HTML, CSS, XML, MySQL, JSON, RESTful API, SQL | Seleni
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=md-abutalha&show_icons=true&locale=en" alt="md-abutalha" /></p>
 
-
+---  
 <h2 class="heading-element" dir="auto">🎓 Education</h2>
 <ul dir="auto">
 <li><strong>[B.Sc.]</strong> in <strong>[CSE]</strong>
