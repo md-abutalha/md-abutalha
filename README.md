@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ![logo](https://github.com/md-abutalha/md-abutalha/blob/main/abu_talha0x.png)  
 <h1 align="center" style="color: #FFD700;">As-salamu Alikum 👋, I'M ABU TALHA</h1>  
 <h3 align="center">QA Engineer | Automation Tester | Security Expert | Bug Hunter</h3>  
-
+---  
 Skills: Java, JavaScript, HTML, CSS, XML, MySQL, JSON, RESTful API, SQL | Selenium, TestNG, Cucumber, Playwright, Apache JMeter, Postman, Git, Jira, Appium, Android Studio, IntelliJ IDEA, VS Code, Burp Suite, Acunetix  
 ---  
 
