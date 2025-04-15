@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![logo](https://github.com/md-abutalha/md-abutalha/blob/main/abu_talha0x.png)
-<h1 align="center">As-salamu Alikum 👋, I'M ABU TALHA</h1>
+<h1 align="center" style="color: yellow;">As-salamu Alikum 👋, I'M ABU TALHA</h1>
 <h3 align="center"><strong>QA Engineer | Automation Tester | Security Expert | Bug Hunter</strong></h3>
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
