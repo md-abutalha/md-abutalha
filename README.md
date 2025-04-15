@@ -23,9 +23,11 @@ Here are some ideas to get you started:
 
 Skills: Java, JavaScript, HTML, CSS, XML, MySQL, JSON, RESTful API, SQL | Selenium, TestNG, Cucumber, Playwright, Apache JMeter, Postman, Git, Jira, Appium, Android Studio, IntelliJ IDEA, VS Code, Burp Suite, Acunetix  
 
----  
 
-### About Me
+
+## About Me
+
+---  
 
 - 🔭 I specialize in **Manual, Automation, Performance, API, Penetration, and Security Testing.**
 
@@ -97,7 +99,7 @@ Skills: Java, JavaScript, HTML, CSS, XML, MySQL, JSON, RESTful API, SQL | Seleni
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=md-abutalha&show_icons=true&locale=en" alt="md-abutalha" /></p>
 
----  
+
 <h2 class="heading-element" dir="auto">🎓 Education</h2>
 <ul dir="auto">
 <li><strong>[B.Sc.]</strong> in <strong>[CSE]</strong>
