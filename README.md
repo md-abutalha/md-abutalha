@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ![logo](https://github.com/md-abutalha/md-abutalha/blob/main/abu_talha0x.png)
 <h1 align="center">As-salamu Alikum 👋, I'm Talha</h1>
-<h3 align="center">I'm passionate about Software Testing, Coding & Security currently enhancing my skills in testing techniques and working on real-world projects</h3>
+<h3 align="center">I'm passionate about Software Testing, Coding & Security, currently enhancing my skills in testing techniques and working on real-world projects</h3>
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=md-abutalha&label=Profile%20views&color=0e75b6&style=flat" alt="md-abutalha" /> </p>
@@ -65,9 +65,9 @@ Here are some ideas to get you started:
     <a href="https://nmap.org/" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/NMap-4682B4?style=for-the-badge&logo=nmap&logoColor=white" alt="NMap" style="max-width: 100%;">
     </a>
-    <a href="https://www.cypress.io/" target="_blank" rel="noreferrer">
+<!--     <a href="https://www.cypress.io/" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress" style="max-width: 100%;">
-    </a>
+    </a> -->
     <a href="https://playwright.dev/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" style="max-width: 100%;">
     </a>
@@ -105,7 +105,19 @@ Here are some ideas to get you started:
 </li>
 </ul>
 
-<h2 align="left">📫 Let's Connect!</h2>
+## ✨ Experience
+
+### 🧰 Hishabee Technologies Limited (On-Site)  
+⏱️ December 2024 - Present  
+📌 QA Engineer  
+• SaaS | Fintech | Dealership Business Solution  
+
+### 🧰 Manhattan Tech (Remote)  
+⏱️ January 2024 – June 2024  
+📌 Software Quality Assurance Intern  
+
+## 📫 Let's Connect!
+
 <p align="left">
     <a href="https://twitter.com/abu_talha0x" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abu_talha0x" height="30" width="40" />
@@ -113,6 +125,11 @@ Here are some ideas to get you started:
     <a href="https://linkedin.com/in/abu-talha1" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abu-talha1" height="30" width="40" />
     </a>
+    <a href="https://github.com/md-abutalha" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="md-abutalha" height="30" width="40" />
+    </a>
+    <a href="https://facebook.com/mdabutalha03333" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" />
+    </a>
 </p>
-
 
