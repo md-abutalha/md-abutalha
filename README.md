@@ -18,10 +18,9 @@ Here are some ideas to get you started:
 <h1 align="center" style="color: #FFD700;">As-salamu Alikum 👋, I'M ABU TALHA</h1>  
 <h3 align="center"><strong>QA Engineer | Automation Tester | Security Expert | Bug Hunter</strong></h3>
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=md-abutalha&label=Profile%20views&color=0e75b6&style=flat" alt="md-abutalha" /> </p>
 
-**Skills:** Java, JavaScript, HTML, CSS, XML, MySQL, JSON, RESTful API, SQL | Selenium, TestNG, Cucumber, Playwright, Apache JMeter, Postman, Git, Jira, Appium, Android Studio, IntelliJ IDEA, VS Code, Burp Suite, Acunetix
+Skills: Java, JavaScript, HTML, CSS, XML, MySQL, JSON, RESTful API, SQL | Selenium, TestNG, Cucumber, Playwright, Apache JMeter, Postman, Git, Jira, Appium, Android Studio, IntelliJ IDEA, VS Code, Burp Suite, Acunetix
 ---
 
 ### About Me
@@ -120,24 +119,24 @@ Here are some ideas to get you started:
 
 ---
 
-### 📡 Connect With Me:
+### 📡 Connect With Me:  
 
-<p align="left">
+<p align="left">  
     <a href="mailto:abutalhabd88@gmail.com" target="_blank">  
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Gmail_Logo.svg" alt="email" height="30" width="40" />  
+        <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Gmail_Logo.svg" alt="email" height="30" width="40" />  
     </a>  
-    &nbsp;&nbsp;
-    <a href="https://linkedin.com/in/abu-talha1" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
-    </a>
-    &nbsp;&nbsp;
-    <a href="https://facebook.com/mdabutalha03333" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" />
-    </a>
-    &nbsp;&nbsp;
-    <a href="https://github.com/md-abutalha" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github" height="30" width="40" />
-    </a>
-</p>
+    &nbsp;&nbsp;  
+    <a href="https://linkedin.com/in/abu-talha1" target="blank">  
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />  
+    </a>  
+    &nbsp;&nbsp;  
+    <a href="https://facebook.com/mdabutalha03333" target="blank">  
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" />  
+    </a>  
+    &nbsp;&nbsp;  
+    <a href="https://github.com/md-abutalha" target="blank">  
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github" height="30" width="40" />  
+    </a>  
+</p>  
 
 
