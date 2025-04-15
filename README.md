@@ -31,9 +31,9 @@ Skills: Java, JavaScript, HTML, CSS, XML, MySQL, JSON, RESTful API, SQL | Seleni
 
 - 🌱 I’m currently enhancing my expertise in software testing techniques through industry-level projects.
 
-- 💬 Ask me about ** SQA & Automation Testing**
+- 💬 Ask me about SQA, Automation & Penetration Testing
   
-- 👯 Open to job, freelance, contractual work & project opportunities in **SQA & Automation Testing**.  
+- 👯 Open to job, freelance, contractual work & project opportunities in SQA, Automation Testing & Ethical Hacking.  
 
 
 <h2 align="left">Skills</h2>
