@@ -21,19 +21,18 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=md-abutalha&label=Profile%20views&color=0e75b6&style=flat" alt="md-abutalha" /> </p>
 
+**Skills:** Java, JavaScript, HTML, CSS, XML, MySQL, JSON, RESTful API, SQL | Selenium, TestNG, Cucumber, Playwright, Apache JMeter, Postman, Git, Jira, Appium, Android Studio, IntelliJ IDEA, VS Code, Burp Suite, Acunetix
+
 ### About Me
 
 - 🔭 I specialize in **Manual, Automation, Performance, API, Penetration, and Security Testing.**
 
-- 🌱 I’m currently learning **and advancing my expertise in software testing techniques.**
+- 🌱 I’m currently enhancing my expertise in software testing techniques through industry-level projects.**
 
-- 💬 Ask me about **Software Testing**
-
-- 📫 How to reach me **abutalha.nub@gmail.com**
+- 💬 Ask me about ** SQA & Automation Testing**
   
-- 👯 I’m looking to collaborate on **SQA & Cyber Security**
+- 👯 Open to job, freelance, contractual work & project opportunities in **SQA & Automation Testing**.  
 
-- ⚡ Fun fact **I'm Funny 🤣**
 
 <h2 align="left">Skills</h2>
 
