@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 Skills: Java, JavaScript, HTML, CSS, XML, MySQL, JSON, RESTful API, SQL | Selenium, TestNG, Cucumber, Playwright, Apache JMeter, Postman, Git, Jira, Appium, Android Studio, IntelliJ IDEA, VS Code, Burp Suite, Acunetix  
 
-
+--- 
 
 ## About Me 
 
