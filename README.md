@@ -85,10 +85,10 @@
 
 ## 💼 Experience  
 
-### 🧰 Hishabee Technologies Limited (On-Site)  
-⏱️ **May 2025 – Present**  
-📌 **Associate QA Engineer**  
-• **SaaS | Fintech | Android App Automation | Performance Testing**
+🧰 Hishabee Technologies Limited (On-Site)  
+⏱️ May 2025 – Present 
+📌Associate QA Engineer
+• SaaS | Fintech | Android App Automation | Performance Testing**
 
 ---
 
