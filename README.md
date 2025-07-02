@@ -85,25 +85,23 @@
 
 ## 💼 Experience  
 
-🧰 Hishabee Technologies Limited (On-Site)  
-⏱️ May 2025 – Present 
-📌Associate QA Engineer
-• SaaS | Fintech | Android App Automation | Performance Testing**
+🧰 **Hishabee Technologies Limited (On-Site)**  
+⏱️ May 2025 – Present  
+📌 **Associate QA Engineer**  
+• SaaS | Fintech | Android App Automation | Performance Testing  
 
----
-
-🧰 Hishabee Technologies Limited (On-Site) 
-⏱️ October 2024 - May 2025 
-📌 Jr. QA Engineer  
+🧰 **Hishabee Technologies Limited (On-Site)**  
+⏱️ October 2024 – May 2025  
+📌 **Jr. QA Engineer**  
 • SaaS | Fintech | Dealership Business Solution  
 
 ---  
 
 🧰 **Manhattan Tech (Remote)**  
 ⏱️ January 2024 – June 2024  
-📌 Software Quality Assurance Intern  
+📌 **Software Quality Assurance Intern**  
 
----  
+---
 
   ## ⚡ Why Choose ME  
 - **Proven Expertise**: Extensive experience in both manual and automated testing, ensuring robust, high-quality software.  
