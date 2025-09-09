@@ -76,12 +76,18 @@
 
 <h2 class="heading-element" dir="auto">🎓 Education</h2>  
 <ul dir="auto">  
-<li><strong>[B.Sc.]</strong> in <strong>[CSE]</strong>  
-<ul dir="auto">  
-<li>[Northern University Bangladesh], [April 2024]</li>  
-</ul>  
-</li>  
-</ul>  
+  <li><strong>[B.Sc.]</strong> in <strong>[CSE]</strong>  
+    <ul dir="auto">  
+      <li>[Northern University Bangladesh], [April 2024]</li>  
+      <li>Activities and societies:</li>  
+      <ul dir="auto">  
+        <li>Class Representative (CR)</li>  
+        <li>Assistant Programming Secretary, NUB Computer Club</li>  
+      </ul>  
+    </ul>  
+  </li>  
+</ul>
+
 
 ## 💼 Experience  
 
