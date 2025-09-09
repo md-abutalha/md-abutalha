@@ -89,6 +89,7 @@
 ⏱️ October 2025 – Present  
 📌 **Associate QA Engineer**  
 • SaaS | Fintech | Android App Automation | Performance Testing  
+
 ---  
 
 🧰 **Manhattan Tech (Remote)**  
