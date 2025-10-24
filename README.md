@@ -94,8 +94,7 @@
 🧰 **Suffix IT Limited (On-Site)**  
 ⏱️ August 2025 – Present  
 📌 **Software QA Engineer**  
-🏢 **Domain:** ERP — Enterprise Sales & Distribution — Business Applications (Automation) 
-🧩 **Project:** Enterprise Sales & Distribution Management System (Web Portal & Bikroy Mobile App)  
+🏢 **Domain:** ERP & Mobile Apps — Enterprise Sales & Distribution — Business Applications & Brand Representative(BR) Application (Automation) 
 🤝 **Client:** Abul Khyer Group (FMCG / Manufacturing Industry)  
 🏗️ **Vendor:** Suffix IT Limited  
 📱 **Platform:** ERP | SAAS | Web and Mobile Applications  
