@@ -1,73 +1,53 @@
+# As-salamu Alikum 👋, I'M ABU TALHA
+
+<div align="center">
+  <h1 style="font-size: 3.5rem; font-weight: 900; margin: 0; padding: 0; line-height: 1.2;">
+    <span style="background: linear-gradient(90deg, #FFD700, #FFA500, #FF8C00, #FFD700); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-size: 200% 200%; animation: gradientShift 3s ease infinite, floatUp 2s ease-out forwards; display: inline-block;">
+      As-salamu Alikum 👋
+    </span>
+  </h1>
+  <h2 style="font-size: 3rem; font-weight: 800; margin: 10px 0 0 0; padding: 0; line-height: 1.2;">
+    <span style="background: linear-gradient(90deg, #FFD700, #FFC107, #FFB300, #FFD700); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-size: 200% 200%; animation: gradientShift 3s ease infinite, floatUp 2s ease-out forwards; display: inline-block; animation-delay: 0.3s; opacity: 0;">
+      I'M ABU TALHA
+    </span>
+  </h2>
+</div>
+
+<style>
+@keyframes gradientShift {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+
+@keyframes floatUp {
+  0% {
+    opacity: 0;
+    transform: translateY(50px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* Ensure smooth rendering in GitHub */
+@media (prefers-reduced-motion: reduce) {
+  * {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0s !important;
+  }
+}
+</style>
+
+---
+
 ### Hi there 👋  
-
-![logo](https://github.com/md-abutalha/md-abutalha/blob/main/abu_talha0x.png)  
-
-<h1 align="center" style="color: #FFD700;">As-salamu Alikum 👋, I'M ABU TALHA</h1>  
-<h3 align="center">QA Engineer | Automation Tester | Security Expert | Bug Hunter</h3>  
-
----  
-
-**Skills:** Java, JavaScript, HTML, CSS, XML, MySQL, JSON, RESTful API, SQL | Selenium, TestNG, Cucumber, Playwright, Apache JMeter, Postman, Git, Jira, Appium, Android Studio, IntelliJ IDEA, VS Code, Burp Suite, Acunetix  
-
----   
-
-## 🔭 About Me   
-
-- 🔭 I specialize in **Manual, Automation, Performance, API, Penetration, and Security Testing.**  
-- 🌱 I’m currently enhancing my expertise in software testing techniques through industry-level projects.  
-- 💬 Ask me about SQA, Automation & Penetration Testing.  
-- 👯 Open to job, freelance, contractual work & project opportunities in SQA, Automation Testing & Ethical Hacking.  
-
----  
-
-<h2 align="left"><img src="https://img.icons8.com/ios-filled/50/000000/laptop.png" alt="laptop icon" width="30" height="30"/> Languages & Tools</h2> 
-
-<p align="left">  
-  <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer">  
-    <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" style="max-width: 100%;">  
-  </a>  
-  <a href="https://appium.io/" target="_blank" rel="noreferrer">  
-    <img src="https://img.shields.io/badge/Appium-41BDF5?style=for-the-badge&logo=appium&logoColor=white" alt="Appium" style="max-width: 100%;">  
-  </a>  
-  <a href="https://testng.org/doc/" target="_blank" rel="noreferrer">  
-    <img src="https://img.shields.io/badge/TestNG-FF9300?style=for-the-badge&logo=testng&logoColor=white" alt="TestNG" style="max-width: 100%;">  
-  </a>  
-  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">  
-    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" style="max-width: 100%;">  
-  </a>  
-  <a href="https://www.acunetix.com/" target="_blank" rel="noreferrer">  
-    <img src="https://img.shields.io/badge/Acunetix-00A3E0?style=for-the-badge&logoColor=white" alt="Acunetix" style="max-width: 100%;">  
-  </a>  
-  <a href="https://jmeter.apache.org/" target="_blank" rel="noreferrer">  
-    <img src="https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apache-jmeter&logoColor=white" alt="JMeter" style="max-width: 100%;">  
-  </a>  
-  <a href="https://portswigger.net/burp" target="_blank" rel="noreferrer">  
-    <img src="https://img.shields.io/badge/BurpSuite-FF7043?style=for-the-badge&logo=burp-suite&logoColor=white" alt="BurpSuite" style="max-width: 100%;">  
-  </a>  
-  <a href="https://nmap.org/" target="_blank" rel="noreferrer">  
-    <img src="https://img.shields.io/badge/NMap-4682B4?style=for-the-badge&logo=nmap&logoColor=white" alt="NMap" style="max-width: 100%;">  
-  </a>  
-  <a href="https://playwright.dev/" target="_blank" rel="noreferrer">  
-    <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" style="max-width: 100%;">  
-  </a>  
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">  
-    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" style="max-width: 100%;">  
-  </a>  
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">  
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" style="max-width: 100%;">  
-  </a>  
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">  
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" style="max-width: 100%;">  
-  </a>  
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">  
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" style="max-width: 100%;">  
-  </a>  
-  <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer">  
-    <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio" style="max-width: 100%;">  
-  </a>  
-  <a href="https://www.php.net/" target="_blank" rel="noreferrer">  
-    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" style="max-width: 100%;">  
-  </a>  
+</a>  
+<a href="https://www.php.net/" target="_blank" rel="noreferrer">  
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" style="max-width: 100%;">  
+</a>  
 </p>  
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=md-abutalha&show_icons=true&locale=en&layout=compact" alt="md-abutalha" /></p>  
@@ -88,7 +68,6 @@
   </li>  
 </ul>
 
-
 ## 💼 Experience  
 
 🧰 **Suffix IT Limited (On-Site)**  
@@ -97,7 +76,7 @@
 🏢 **Domain:** ERP & Mobile Apps — Enterprise Sales & Distribution — Business Applications & Brand Representative (BR) Application (Automation)  
 🤝 **Client:** Abul Khyer Group (FMCG / Manufacturing Industry)  
 🏗️ **Vendor:** Suffix IT Limited  
-📱 **Platform:** ERP | SAAS | Web and Mobile Applications  
+📱 **Platform:** ERP | SaaS | Web and Mobile Applications  
 
 ---
 
@@ -114,7 +93,7 @@
 
 ---
 
-  ## ⚡ Why Choose ME  
+## ⚡ Why Choose ME  
 - **Proven Expertise**: Extensive experience in both manual and automated testing, ensuring robust, high-quality software.  
 - **Detail-Oriented**: Strong focus on detail, which helps identify and document bugs thoroughly.  
 - **Flexible & Adaptable**: Experience working in various environments and adapting to new technologies quickly.  
@@ -122,7 +101,6 @@
 - **Continuous Learner**: Committed to keeping up with industry trends and continuously improving my skills in testing methodologies.
   
 ---  
-
 
 ### 📡 Connect With Me:  
 
@@ -140,4 +118,4 @@ abutalhabd88@gmail.com
     <a href="https://github.com/md-abutalha" target="blank">  
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github" height="30" width="40" />  
     </a>  
-</p>  
+</p>
