@@ -94,7 +94,7 @@
 🧰 **Suffix IT Limited (On-Site)**  
 ⏱️ August 2025 – Present  
 📌 **Software QA Engineer**  
-🏢 **Domain:** ERP & Mobile Apps — Enterprise Sales & Distribution — Business Applications & Brand Representative(BR) Application (Automation) 
+🏢 **Domain:** ERP & Mobile Apps — Enterprise Sales & Distribution — Business Applications & Brand Representative (BR) Application (Automation)  
 🤝 **Client:** Abul Khyer Group (FMCG / Manufacturing Industry)  
 🏗️ **Vendor:** Suffix IT Limited  
 📱 **Platform:** ERP | SAAS | Web and Mobile Applications  
