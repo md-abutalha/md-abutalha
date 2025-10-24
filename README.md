@@ -78,7 +78,7 @@
 <ul dir="auto">  
   <li><strong>[B.Sc.]</strong> in <strong>[CSE]</strong>  
     <ul dir="auto">  
-      <li>[Northern University Bangladesh], [April 2024]</li>  
+      <li>[Northern University Bangladesh], [JAN 2021 - APR 2024]</li>  
       <li>Activities and societies:</li>  
       <ul dir="auto">  
         <li>Class Representative (CR)</li>  
@@ -91,10 +91,21 @@
 
 ## 💼 Experience  
 
+🧰 **Suffix IT Limited (On-Site)**  
+⏱️ August 2025 – Present  
+📌 **Software QA Engineer**  
+🏢 **Domain:** ERP — Enterprise Sales & Distribution — Business Applications (Automation) 
+🧩 **Project:** Enterprise Sales & Distribution Management System (Web Portal & Bikroy Mobile App)  
+🤝 **Client:** Abul Khyer Group (FMCG / Manufacturing Industry)  
+🏗️ **Vendor:** Suffix IT Limited  
+📱 **Platform:** ERP | SAAS | Web and Mobile Applications  
+
+---
+
 🧰 **Hishabee Technologies Limited (On-Site)**  
 ⏱️ October 2025 – Present  
 📌 **Associate QA Engineer**  
-• SaaS | Fintech | Android App Automation | Performance Testing  
+📱 SaaS | Fintech | Android App Automation | Performance Testing  
 
 ---  
 
