@@ -142,7 +142,7 @@
 
 | Testing |
 |----------|
-| Manual Testing | Automation Testing |
+| Manual Testing | | utomation Testing |
 | Functional Testing |
 | Regression Testing |
 | Smoke Testing |
