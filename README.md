@@ -177,8 +177,6 @@
 
 ---
 
----
-
 ## 👀 Profile Visitors
 
 <p align="center">
@@ -189,7 +187,7 @@
 
 ---
 
-## 📫 Contact
+## 📫 Contact With Me: 
 
 <p align="center">
 
@@ -201,26 +199,12 @@
 <img src="https://img.shields.io/badge/LinkedIn-Abu%20Talha-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
+<a href="https://www.facebook.com/abutalha0x" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-Abu%20Talha%200x-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+</a>
+
 <a href="https://github.com/md-abutalha">
 <img src="https://img.shields.io/badge/GitHub-md--abutalha-black?style=for-the-badge&logo=github"/>
 </a>
 
 </p>
-
-### 📡 Connect With Me:  
-
-<p align="left">  
-abutalhabd88@gmail.com  
-    &nbsp;&nbsp;  
-    <a href="https://linkedin.com/in/abu-talha1" target="blank">  
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />  
-    </a>  
-    &nbsp;&nbsp;  
-    <a href="https://facebook.com/mdabutalha03333" target="blank">  
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" />  
-    </a>  
-    &nbsp;&nbsp;  
-    <a href="https://github.com/md-abutalha" target="blank">  
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github" height="30" width="40" />  
-    </a>  
-</p>  
