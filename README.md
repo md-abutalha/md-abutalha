@@ -142,7 +142,8 @@
 
 | Testing |
 |----------|
-| Manual Testing | | utomation Testing |
+| Manual Testing |
+| utomation Testing |
 | Functional Testing |
 | Regression Testing |
 | Smoke Testing |
@@ -158,6 +159,53 @@
 | Cross Browser Testing |
 | User Acceptance Testing |
 
+---
+
+## 📜 Certifications
+
+🏅 API Test Automation
+
+🏅 Ethical Hacking
+
+🏅 OWASP Top 10
+
+🏅 Java Programming
+
+🏅 Software Testing
+
+🏅 Professional English Communication
+
+---
+
+---
+
+## 👀 Profile Visitors
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=md-abutalha&label=Profile%20Views&color=0e75b6&style=flat"/>
+
+</p>
+
+---
+
+## 📫 Contact
+
+<p align="center">
+
+<a href="mailto:abutalha03333@gmail.com">
+<img src="https://img.shields.io/badge/Email-abutalhabd88%40gmail.com-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://linkedin.com/in/abu-talha1">
+<img src="https://img.shields.io/badge/LinkedIn-Abu%20Talha-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/md-abutalha">
+<img src="https://img.shields.io/badge/GitHub-md--abutalha-black?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
 
 ### 📡 Connect With Me:  
 
