@@ -70,9 +70,6 @@
   </a>  
 </p>  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=md-abutalha&show_icons=true&locale=en&layout=compact" alt="md-abutalha" /></p>  
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=md-abutalha&show_icons=true&locale=en" alt="md-abutalha" /></p>  
 
 <h2 class="heading-element" dir="auto">🎓 Education</h2>  
 <ul dir="auto">  
@@ -97,7 +94,7 @@
 🏢 **Domain:** ERP & Mobile Apps — Enterprise Sales & Distribution — Business Applications & Brand Representative (BR) Application (Automation)  
 🤝 **Client:** Abul Khyer Group (FMCG / Manufacturing Industry)  
 🏗️ **Vendor:** Suffix IT Limited  
-📱 **Platform:** ERP | SaaS | Web and Mobile Applications  
+📱 **Platform:** ERP | SaaS | Fintech | Web and Mobile Applications  
 
 ---
 
@@ -114,6 +111,24 @@
 
 ---
 
+---
+
+## 🏆 Professional Highlights
+
+- Experience in **ERP, SaaS, FinTech, FMCG & Mobile Applications**
+- UI Automation using **Playwright (Python)** and **Selenium (Java)**
+- API Automation using **Postman** and **Playwright API**
+- Performance Testing using **Apache JMeter**
+- Mobile Testing using **Appium**
+- Security Testing using **Burp Suite**, **Acunetix**, and **OWASP Top 10**
+- Database Testing using **MySQL** and **Oracle SQL**
+- Test Case Design, Test Planning & Bug Reporting
+- Agile Scrum, Jira & Git Workflow
+- CI/CD knowledge using **GitHub Actions** 
+- Strong understanding of SDLC, STLC and Software Quality Engineering
+
+---
+
   ## ⚡ Why Choose ME  
 - **Proven Expertise**: Extensive experience in both manual and automated testing, ensuring robust, high-quality software.  
 - **Detail-Oriented**: Strong focus on detail, which helps identify and document bugs thoroughly.  
@@ -122,6 +137,27 @@
 - **Continuous Learner**: Committed to keeping up with industry trends and continuously improving my skills in testing methodologies.
   
 ---  
+
+## 🧪 QA Expertise
+
+| Testing |
+|----------|
+| Manual Testing |
+| Automation Testing |
+| Functional Testing |
+| Regression Testing |
+| Smoke Testing |
+| Sanity Testing |
+| Integration Testing |
+| System Testing |
+| API Testing |
+| Database Testing |
+| Mobile Testing |
+| Performance Testing |
+| Security Testing |
+| Compatibility Testing |
+| Cross Browser Testing |
+| User Acceptance Testing |
 
 
 ### 📡 Connect With Me:  
