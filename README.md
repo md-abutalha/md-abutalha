@@ -111,6 +111,50 @@
 
 ---
 
+## 🌍 Community Project — TestPilot QA Lab
+
+<p align="center">
+  <a href="https://practiceqadev.vercel.app/">
+    <img src="https://img.shields.io/badge/🚀_Live_Demo-TestPilot_QA_Lab-2563EB?style=for-the-badge" alt="Live Demo"/>
+  </a>
+</p>
+
+### 🧪 TestPilot QA Lab — Break It. Test It. Master It.
+
+**A hands-on software testing practice platform built to help aspiring QA Engineers, Automation Testers, and SDETs develop practical testing skills.**
+
+🔗 **Live Website:** https://practiceqadev.vercel.app/
+
+### 🎯 Project Mission
+
+Making software testing education more practical, accessible, and community-driven through interactive challenges and real-world testing exercises.
+
+### ✨ Key Features
+
+- Hands-on QA practice and testing challenges.
+- Structured learning paths from beginner to advanced levels.
+- Practical software testing exercises.
+- SQL practice with problems and solutions.
+- A dedicated environment for developing QA and automation skills.
+- Accessible online learning platform for the global QA community.
+
+### 👥 Who Is It For?
+
+- Aspiring Software QA Engineers.
+- Manual Testers transitioning into Automation Testing.
+- QA Automation Engineers and SDETs.
+- Computer Science students and fresh graduates.
+- Anyone interested in learning software testing through practice.
+
+### 🚀 Project Vision
+
+My goal is to create a practical learning ecosystem where QA professionals and beginners can strengthen their testing knowledge, practice real-world scenarios, and continuously improve their engineering skills.
+
+**Explore the platform:** https://practiceqadev.vercel.app/
+
+**Built for the QA Community.**
+
+
 ---
 
 ## 🏆 Professional Highlights
