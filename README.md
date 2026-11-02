@@ -115,7 +115,7 @@
 
 ## 🏆 Professional Highlights
 
-- Experience in **ERP, SaaS, FinTech, FMCG & Mobile Applications**
+- Experience in ** FinTech, Retail Tech, ERP, SaaS, FMCG & Mobile Applications**
 - UI Automation using **Playwright (Python)** and **Selenium (Java)**
 - API Automation using **Postman** and **Playwright API**
 - Performance Testing using **Apache JMeter**
@@ -140,24 +140,11 @@
 
 ## 🧪 QA Expertise
 
-| Testing |
-|----------|
-| Manual Testing |
-| UI Automation Testing |
-| Functional Testing |
-| Regression Testing |
-| Smoke Testing |
-| Sanity Testing |
-| Integration Testing |
-| System Testing |
-| API Testing |
-| Database Testing |
-| Mobile Testing |
-| Performance Testing |
-| Security Testing |
-| Compatibility Testing |
-| Cross Browser Testing |
-| User Acceptance Testing |
+| Manual Testing | UI Automation | API Testing | Database Testing |
+|---|---|---|---|
+| Functional Testing | Regression Testing | Smoke Testing | Sanity Testing |
+| Integration Testing | System Testing | Mobile Testing | Performance Testing |
+| Security Testing | Compatibility Testing | Cross-Browser Testing | User Acceptance Testing |
 
 ---
 
