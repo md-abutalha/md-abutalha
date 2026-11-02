@@ -163,19 +163,27 @@
 
 ## 📜 Certifications
 
-🏅 API Test Automation
-
-🏅 Ethical Hacking
-
-🏅 OWASP Top 10
-
-🏅 Java Programming
-
-🏅 Software Testing
-
-🏅 Professional English Communication
+- Software QA & Cyber Security — IT Training BD
+- API Test Automation — TestAutomationU
+- Java Programming — TestAutomationU
+- Ethical Hacking — eShikhon
+- OWASP Top 10 — Udemy
+- Website Hacking — EC-Council Training
+- Laravel Training — BASIS
+- Professional English Communication
 
 ---
+
+## 🌱 Currently Learning & Improving
+
+- Advanced Python, Java and Object-Oriented Programming.
+- Playwright with Python and TypeScript.
+- Pytest framework architecture and design patterns.
+- Advanced API automation and validation.
+- GitHub Actions, Jenkins and CI/CD.
+- Docker and containerized test environments.
+- Performance testing with k6.
+- Cloud fundamentals and AWS.
 
 ## 👀 Profile Visitors
 
@@ -186,6 +194,8 @@
 </p>
 
 ---
+
+**Preferred Work Arrangements:** On-site · Hybrid · Remote
 
 ## 📫 Contact With Me: 
 
@@ -208,3 +218,8 @@
 </a>
 
 </p>
+
+### "Quality is not an act, it is a habit."
+
+**Thank you for visiting my profile!**
+
