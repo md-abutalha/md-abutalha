@@ -201,7 +201,10 @@ My goal is to create a practical learning ecosystem where QA professionals and b
 - OWASP Top 10 — Udemy
 - Website Hacking — EC-Council Training
 - Laravel Training — BASIS
-- Professional English Communication
+- Professional English Communication - WASDA
+- Android Development Certificate - Bongo Academy
+- Broad Scope Bug Bounties From Scratch - Udemy
+- Website Hacking Techniques - EC-Council
 
 ---
 
