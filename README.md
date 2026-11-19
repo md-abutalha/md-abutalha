@@ -86,24 +86,23 @@
 </ul>
 
 
-## 💼 Experience  
+## 💼 Professional Experience
 
 🧰 **Suffix IT Limited (On-Site)**  
 ⏱️ August 2025 – Present  
 📌 **Software QA Engineer**  
-🤝 **Clients:** Abul Khair Group (FMCG / Manufacturing), BIWTA, MGI 
-📱 **Projects:** Sales & Distribution Portal (Web), DXO, Trade Marketing & Payment Getwey, Mobile App, Brand Representative (BR) App (Automation) 
-📱 **Platform:** SaaS | Fintech | Web & Mobile Applications | Enterprise Application | ERP | FMCG / Manufacturing | E-Commerce
+🤝 **Clients:** Abul Khair Group (FMCG & Manufacturing), BIWTA, MGI  
+📱 **Projects:** Enterprise Sales & Distribution Portal, DXO, Trade Marketing & Payment Gateway, Mobile Applications, Brand Representative (BR) App  
+💻 **Domains:** SaaS | FinTech | ERP | Enterprise Applications | FMCG & Manufacturing | E-Commerce  
+🧪 **Responsibilities:** Functional & Regression Testing | API Testing | Database Validation | Mobile & Web Application Testing | Test Automation
 
 ---
 
 🧰 **Hishabee Technologies Limited (On-Site)**  
-⏱️ October 2025 – Present  
+⏱️ October 2024 – July 2025  
 📌 **Associate QA Engineer**  
-🌐 **Domain:** SaaS | FinTech | RetailTech 
-📱 **Platform:** Web & Mobile App  
-
----  
+🌐 **Domains:** SaaS | FinTech | RetailTech  
+📱 **Platforms:** Web & Mobile Applications 
 
 🧰 **Manhattan Tech (Remote)**  
 ⏱️ March 2024 – August 2024  
