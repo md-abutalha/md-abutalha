@@ -91,17 +91,17 @@
 🧰 **Suffix IT Limited (On-Site)**  
 ⏱️ August 2025 – Present  
 📌 **Software QA Engineer**  
-🏢 **Domain:** ERP & Mobile Apps — Enterprise Sales & Distribution — Business Applications & Brand Representative (BR) Application (Automation)  
-🤝 **Client:** Abul Khyer Group (FMCG / Manufacturing Industry)  
-🏗️ **Vendor:** Suffix IT Limited  
-📱 **Platform:** ERP | SaaS | Fintech | Web and Mobile Applications  
+🤝 **Clients:** Abul Khair Group (FMCG / Manufacturing), BIWTA, MGI 
+📱 **Projects:** Sales & Distribution Portal (Web), DXO, Trade Marketing & Payment Getwey, Mobile App, Brand Representative (BR) App (Automation) 
+📱 **Platform:** SaaS | Fintech | Web & Mobile Applications | Enterprise Application | ERP | FMCG / Manufacturing | E-Commerce
 
 ---
 
 🧰 **Hishabee Technologies Limited (On-Site)**  
 ⏱️ October 2025 – Present  
 📌 **Associate QA Engineer**  
-📱 SaaS | Fintech | Android App Automation | Performance Testing  
+🌐 **Domain:** SaaS | FinTech | RetailTech 
+📱 **Platform:** Web & Mobile App  
 
 ---  
 
