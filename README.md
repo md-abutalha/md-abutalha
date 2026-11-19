@@ -13,10 +13,10 @@
 
 ## 🔭 About Me   
 
-- 🔭 I specialize in **Manual, Automation, Performance, API, Penetration, and Security Testing.**  
+- 🔭 I specialize in **Manual, Automation, API, Performance, Database, Report, and Security Testing**, with experience in **project handling and test management**.
 - 🌱 I’m currently enhancing my expertise in software testing techniques through industry-level projects.  
 - 💬 Ask me about SQA, Automation & Penetration Testing.  
-- 👯 Open to job, freelance, contractual work & project opportunities in SQA, Automation Testing & Ethical Hacking.  
+- 👯 Open to job, freelance, contractual work & project opportunities in SQA, Automation Testing, Penetration Testing & Ethical Hacking.  
 
 ---  
 
